@@ -1,0 +1,5 @@
+What is a remote repository?
+A remote repository is one that is not stored on your local computer. In order
+to change it, you must clone it to your own computer, and add, push, and commit
+any changes. Many people can work on their own cloned versions of remote repo-
+sitories at once, and then commit their changes to the one remote reposittory
